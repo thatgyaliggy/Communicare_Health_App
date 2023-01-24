@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "src/main/webapp"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.compile.nullAnalysis.mode": "automatic",
+		"liveServer.settings.multiRootWorkspaceName": "communicare_app"
+	}
+}
